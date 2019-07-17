@@ -1,0 +1,4 @@
+#Wed Jul 17 16:08:54 CST 2019
+base.0=D\:\\ZigBee_wangguanxieyi\\2019-7-3\\Scrollable-master\\zhy_custom_viewgroup02\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "D:\\ZigBee_wangguanxieyi\\2019-7-3\\Scrollable-master\\zhy_custom_viewgroup02\\app\\build\\intermediates\\res\\merged\\debug\\layout_test2.xml.flat",
+        "source": "D:\\ZigBee_wangguanxieyi\\2019-7-3\\Scrollable-master\\zhy_custom_viewgroup02\\app\\src\\main\\res\\layout\\test2.xml"
+    },
+    {
+        "merged": "D:\\ZigBee_wangguanxieyi\\2019-7-3\\Scrollable-master\\zhy_custom_viewgroup02\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\ZigBee_wangguanxieyi\\2019-7-3\\Scrollable-master\\zhy_custom_viewgroup02\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\ZigBee_wangguanxieyi\\2019-7-3\\Scrollable-master\\zhy_custom_viewgroup02\\app\\build\\intermediates\\res\\merged\\debug\\layout_test.xml.flat",
+        "source": "D:\\ZigBee_wangguanxieyi\\2019-7-3\\Scrollable-master\\zhy_custom_viewgroup02\\app\\src\\main\\res\\layout\\test.xml"
+    },
+    {
+        "merged": "D:\\ZigBee_wangguanxieyi\\2019-7-3\\Scrollable-master\\zhy_custom_viewgroup02\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\ZigBee_wangguanxieyi\\2019-7-3\\Scrollable-master\\zhy_custom_viewgroup02\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\ZigBee_wangguanxieyi\\2019-7-3\\Scrollable-master\\zhy_custom_viewgroup02\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "D:\\ZigBee_wangguanxieyi\\2019-7-3\\Scrollable-master\\zhy_custom_viewgroup02\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\ZigBee_wangguanxieyi\\2019-7-3\\Scrollable-master\\zhy_custom_viewgroup02\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_b.jpg.flat",
+        "source": "D:\\ZigBee_wangguanxieyi\\2019-7-3\\Scrollable-master\\zhy_custom_viewgroup02\\app\\src\\main\\res\\drawable-mdpi\\b.jpg"
+    },
+    {
+        "merged": "D:\\ZigBee_wangguanxieyi\\2019-7-3\\Scrollable-master\\zhy_custom_viewgroup02\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "D:\\ZigBee_wangguanxieyi\\2019-7-3\\Scrollable-master\\zhy_custom_viewgroup02\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\ZigBee_wangguanxieyi\\2019-7-3\\Scrollable-master\\zhy_custom_viewgroup02\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\ZigBee_wangguanxieyi\\2019-7-3\\Scrollable-master\\zhy_custom_viewgroup02\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\ZigBee_wangguanxieyi\\2019-7-3\\Scrollable-master\\zhy_custom_viewgroup02\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_a.jpg.flat",
+        "source": "D:\\ZigBee_wangguanxieyi\\2019-7-3\\Scrollable-master\\zhy_custom_viewgroup02\\app\\src\\main\\res\\drawable-mdpi\\a.jpg"
+    },
+    {
+        "merged": "D:\\ZigBee_wangguanxieyi\\2019-7-3\\Scrollable-master\\zhy_custom_viewgroup02\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "D:\\ZigBee_wangguanxieyi\\2019-7-3\\Scrollable-master\\zhy_custom_viewgroup02\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    }
+]

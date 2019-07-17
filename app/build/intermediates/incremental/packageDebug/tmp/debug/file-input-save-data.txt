@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Wed Jul 17 16:08:54 CST 2019
+0.baseType=DIRECTORY
+0.base=D\:\\ZigBee_wangguanxieyi\\2019-7-3\\Scrollable-master\\zhy_custom_viewgroup02\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+0.path=classes.dex
+0.set=DEX
+count=1
